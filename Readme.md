@@ -1,0 +1,1 @@
+ini adalah proyek latihan tentang git yang diberikan oleh mentor di bootcamp BandungAICamp
